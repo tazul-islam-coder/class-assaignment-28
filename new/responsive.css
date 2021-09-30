@@ -1,0 +1,174 @@
+@media (max-width:1200px){
+    .banner-content {
+        width: 100%;
+    }
+}
+@media (max-width:992px){
+    .banner-content {
+        width: 100%;
+    }
+    .banner-img img {
+        max-width: 100%;
+    }
+    .banner-content {
+        margin-top: 60px;
+    }
+    .about-img img {
+        max-width: 100%;
+    }
+}
+@media (max-width:768px){
+    .banner-content {
+        margin-top: 60px;
+    }
+    .about-text {
+        padding-top: 0 !important;
+    }
+    .about-text h2 {
+        padding-bottom: 0 !important;
+        font-size: 28px;
+    }
+    .about-text p {
+        letter-spacing: -1px;
+        font-size: 14px;
+    }
+    .about-text h5 {
+        padding: 0 !important;
+    }
+    .about-content-btn {
+        margin-top: 0;
+    }
+    .contact-address h5 {
+        font-size: 16px;
+    }
+    .contact-address {
+        margin-bottom: 27px;
+        padding-top: 0 !important;
+    }
+    .contact-address {
+        margin-bottom: 27px;
+        padding-top: 0 !important;
+        text-align: center;
+    }
+}
+@media (max-width:576px){
+
+    .banner-content h1 {
+        padding: 7px 0px;
+    }
+    .banner-content p {
+        width: 100%;
+        font-size: 14px;
+    }
+    .banner-content-btn {
+        margin-top: 6px;
+        padding: 3px 5px;
+        border-radius: 4px;
+    }
+    .banner-img img {
+        max-width: 100%;
+    }
+    .banner-content {
+        margin-top: 60px;
+    }
+    .contact-address {
+        margin-bottom: 27px;
+        padding-top: 0 !important;
+        text-align: center;
+    }
+}
+
+@media (max-width:470px){
+    .banner-content {
+        width: 100%;
+        margin-top: 40px;
+    }
+    .about-img img {
+        max-width: 100%;
+    }
+}
+@media (max-width:350px){
+    .banner-content {
+        width: 100%;
+        margin-top: 30px;
+    }
+    .banner-content p {
+        width: 300px;
+    }
+    .banner-img img {
+        max-width: 100%;
+    }
+    .about-img img {
+        max-width: 100%;
+    }
+    .about-text h5 {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+    .about-text h2 {
+        padding-bottom: 0 !important;
+    }
+    .about-text p {
+        font-size: 14px;
+    }
+    .about-content-btn {
+        margin-top: 6px;
+        padding: 4px 8px;
+    }
+    .summary-details {
+        padding: 10px 0 !important;
+    }
+    .summary-details h2 {
+        font-size: 35px;
+    }
+    .user-content h5 {
+        font-size: 14px !important;
+    }
+    .using-card h1 {
+        font-size: 30px;
+        height: 80px;
+        width: 80px;
+        line-height: 80px;
+    }
+    .using-card p {
+        font-size: 15px;
+        padding: 0px;
+    }
+    .card-body h4 {
+        margin-top: 50px;
+        font-size: 20px;
+    }
+    .card-body h6 {
+        line-height: 8px;
+        font-size: 13px;
+    }
+    .card-body p {
+        margin: 19px 0;
+        font-size: 15px;
+    }
+    .contact-top {
+        padding: 20px 0 !important;
+    }
+    .contact-top h5 {
+        font-size: 15px;
+    }
+    .contact-top h2 {
+        font-size: 20px;
+    }
+    .card {
+        padding: 25px !important;
+    }
+    .contact-address {
+        padding-top: 10px !important;
+        padding-bottom: 15px;
+    }
+    .contact-address h5 {
+        font-size: 15px;
+    }
+    footer p {
+        font-size: 10px;
+    }
+    
+    
+
+}

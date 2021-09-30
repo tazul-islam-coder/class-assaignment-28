@@ -1,0 +1,126 @@
+body{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.nav-wh{
+    background-color: #ffffff;
+}
+
+.navbar-brand img{
+    width: 90px;
+}
+
+/* banner */
+.banner-wh{
+    background-color: #f9f9ff;
+}
+.banner-content {
+    width: 500px;
+    margin-top: 120px;
+    
+}
+.banner-content h5{}
+.banner-content h1 {
+    padding: 20px 0px;
+}
+.banner-content p{
+    color: #777;
+}
+.banner-content-btn {
+    border: none;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #8490ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+
+/* about-section */
+.about-text p {
+    letter-spacing: -1px;
+}
+.about-content-btn {
+    border: none;
+    margin-top: 20px;
+    color: #fff;
+    background-color: #8490ff;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+
+/* summary */
+.wh-summary{
+    background-color: #8490ff;
+}
+.summary-details h2 {
+    font-size: 40px;
+}
+.summary-details p {
+    font-size: 13px;
+}
+
+
+/* using our app */
+.using-app{
+    background-color: #f9f9ff;
+}
+.user-content h5 {
+    letter-spacing: -1px;
+}
+.using-card{
+    background-color: #fff;
+    margin-bottom: 40px;
+}
+.using-card h1 {
+    background-color: #f9f9ff;
+    border-radius: 50%;
+    font-size: 41px;
+    height: 100px;
+    width: 100px;
+    margin: auto;
+    line-height: 100px;
+}
+.using-card h5 {
+    font-size: 20px;
+}
+.using-card h6 {
+    line-height: 5px;
+    letter-spacing: -1px;
+    padding-bottom: 30px;
+}
+.using-card p {
+    color: #777;
+    font-size: 18px;
+    padding: 8px;
+}
+
+
+
+
+
+.programmer-item .card img {
+    width: 130px;
+    height: auto;
+    margin-bottom: -56px;
+    margin-left: 33px;
+}
+.card-body {
+    border-radius: 10px;
+}
+.card-body h4 {
+    margin-top: 56px;
+}
+.card-body h6 {
+    line-height: 14px;
+}
+.card-body p {
+    margin: 26px 0;
+}
+
+
+/* contact-part */
+.contact-part{
+    background-color: #f9f9ff;
+}
